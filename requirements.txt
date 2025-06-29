@@ -24,7 +24,6 @@ spotipy
 tgcrypto
 unidecode
 uvloop
-yt-dlp
 youtube-search
 youtube-search-python
 yt-dlp>=2025.6.9
