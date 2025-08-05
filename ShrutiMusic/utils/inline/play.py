@@ -70,8 +70,8 @@ def stream_markup_timer(_, chat_id, played, dur):
             )
         ],
         [
-            InlineKeyboardButton(text="𝚂𝙸𝙻𝙴𝙽𝚃𝙷𝚁𝙰𝚇", url="https://t.me/Silenthrax"),
-            InlineKeyboardButton(text="𝐌ᴀɴᴀɢᴇʀ", url="https://t.me/BESTIE_X_MUSIC_BOT"),
+            InlineKeyboardButton(text="⌁ƊƦ𝛆𝐀ϻ𔘓⃭ 𝀚", url="https://t.me/Ur_bbu"),
+            InlineKeyboardButton(text="𝐌ᴀɴᴀɢᴇʀ", url="https://t.me/Rockhush_Robot"),
         ],
     ]
 
@@ -129,3 +129,4 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
 
 # Credit
 # Modified with love by Nand Yaduwanshi @WTF_WhyMeeh
+
