@@ -66,12 +66,12 @@ def stream_markup_timer(_, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text=f"{played} {progress_bar} {dur}",
-                url="https://t.me/RED_FM_MUSIC_BOT?startgroup=true"
+                url="https://t.me/Rockhush_Robot?startgroup=true"
             )
         ],
         [
             InlineKeyboardButton(text="⌁ƊƦ𝛆𝐀ϻ𔘓⃭ 𝀚", url="https://t.me/Ur_bbu"),
-            InlineKeyboardButton(text="𝐌ᴀɴᴀɢᴇʀ", url="https://t.me/Rockhush_Robot"),
+            InlineKeyboardButton(text="𝐌ᴀɴᴀɢᴇʀ", url="https://t.me/khushimusix_Robot""),
         ],
     ]
 
@@ -129,4 +129,5 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
 
 # Credit
 # Modified with love by Nand Yaduwanshi @WTF_WhyMeeh
+
 
