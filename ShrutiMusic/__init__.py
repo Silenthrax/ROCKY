@@ -1,4 +1,4 @@
-from ShrutiMusic.core.bot import Aviax
+from ShrutiMusic.core.bot import Nand
 from ShrutiMusic.core.dir import dirr
 from ShrutiMusic.core.git import git
 from ShrutiMusic.core.userbot import Userbot
@@ -11,9 +11,8 @@ git()
 dbb()
 heroku()
 
-app = Aviax()
+app = Nand()
 userbot = Userbot()
-
 
 from .platforms import *
 
@@ -24,3 +23,15 @@ Spotify = SpotifyAPI()
 Resso = RessoAPI()
 Telegram = TeleAPI()
 YouTube = YouTubeAPI()
+
+
+
+
+
+
+
+
+
+
+# ❤️ Love From ShrutiBots 
+
